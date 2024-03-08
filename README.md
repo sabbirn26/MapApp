@@ -32,10 +32,16 @@ MapApp consists of several SwiftUI views and a view model responsible for managi
 
 ## Screenshots
 
-![Home Page](https://github.com/sabbirn26/MapApp/raw/main/ScreenShots/Screenshot-01.png)
-![Location DropDown](https://github.com/sabbirn26/MapApp/raw/main/ScreenShots/Screenshot-02.png)
-![Location Details](https://github.com/sabbirn26/MapApp/raw/main/ScreenShots/Screenshot-03.png)
-![Location Description and Map](https://github.com/sabbirn26/MapApp/raw/main/ScreenShots/Screenshot-04.png)
+<table>
+  <tr>
+    <td><img src="https://github.com/sabbirn26/MapApp/raw/main/ScreenShots/Screenshot-01.png" alt="Home Page" width="400" height="184"></td>
+    <td><img src="https://github.com/sabbirn26/MapApp/raw/main/ScreenShots/Screenshot-02.png" alt="Location DropDown and Search" width="400" height="184"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/sabbirn26/MapApp/raw/main/ScreenShots/Screenshot-03.png" alt="Location Details" width="400" height="184"></td>
+    <td><img src="https://github.com/sabbirn26/MapApp/raw/main/ScreenShots/Screenshot-04.png" alt="Location Description with Map" width="400" height="184"></td> 
+  </tr>
+</table>
 
 
 ## Installation
