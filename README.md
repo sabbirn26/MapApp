@@ -51,7 +51,3 @@ To install MapApp on your iOS device, follow these steps:
 - iOS 14.0+
 - Xcode 12.0+
 
-## Credits
-
-MapApp was developed by [Sabbir Nasir].
-
